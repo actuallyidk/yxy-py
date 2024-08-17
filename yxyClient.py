@@ -29,11 +29,3 @@ class yxyClient:
             "testAccount": 1,
             "token": ""
         }
-    
-    @staticmethod
-    def getBaseResponse(data):
-        return {
-            "code": 0,
-            "msg": "",
-            "data": data
-        }
