@@ -1,0 +1,8 @@
+APP_ALL_VERSION = "6.2.8"
+APP_VERSION = "611"
+CLIENT_ID = "65l281jbb6wjvuo"
+COMPUS_URL = "https://compus.xiaofubao.com"
+APPLICATION_URL = "https://application.xiaofubao.com"
+AUTH_URL = "https://auth.xiaofubao.com"
+OPEN_URL = "https://open.xiaofubao.com"
+SCHOOL_CODE = "10337"
