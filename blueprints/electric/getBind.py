@@ -1,0 +1,2 @@
+def getBind():
+    pass

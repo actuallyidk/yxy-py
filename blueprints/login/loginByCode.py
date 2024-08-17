@@ -1,0 +1,2 @@
+def loginByCode():
+    pass

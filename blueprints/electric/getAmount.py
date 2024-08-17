@@ -1,0 +1,2 @@
+def getAmount():
+    pass
