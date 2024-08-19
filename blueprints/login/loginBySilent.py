@@ -21,8 +21,6 @@ def loginBySilent():
     req_data["token"] = params.get("token") or gen_random_fake_md5()
     req_data["ymId"] = params.get("uid")
 
-    print(req_data)
-
     res = requests.post(
         COMPUS_URL + "/login/doLoginBySilent",
         json=req_data,

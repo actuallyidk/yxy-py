@@ -33,8 +33,6 @@ def getRecharge():
             }
         ).json()
 
-        print(res)
-
         try:
             return getBaseResponse([
                 {
