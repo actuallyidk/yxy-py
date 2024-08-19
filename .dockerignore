@@ -1,0 +1,10 @@
+.git/
+.vscode/
+.gitignore
+Dockerfile
+.dockerignore
+
+venv/
+
+**/__pycache__/
+**/*.py[cod]
